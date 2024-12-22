@@ -12,6 +12,7 @@ const [addSpecialChars, setAddSpecialChars] = useState(false);
 const [addNumber,updateNumbers]=useState(false)
 const [addUppercase,updateUppercase]=useState(false)
 
+
 // if(SpecailCheck.checked){
 //   ()=>{
 //     Pass_char+='!£$%^&*@~#?/.,;:{}~"';
