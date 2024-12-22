@@ -9,7 +9,8 @@ const App = () => {
   position="top-right"
   reverseOrder={true}
 />
-<Password_Maker/>
+<Password_Maker
+/>
     </div>
   )
 }
