@@ -1,5 +1,5 @@
 #body_2{
-    background:linear-gradient(black,transparent), url('./images/wallpaperflare.com_wallpaper (3).jpg');
+    background:linear-gradient(black,transparent), url("../images/wallpaperflare.com_wallpaper (3).jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
